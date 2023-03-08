@@ -1,0 +1,28 @@
+.homepage {
+    position: fixed;
+    width: 500px;
+    height: 200px;
+    top: 50%;
+    left: 60%;
+    margin-top: -100px;
+    margin-left: -250px;
+}
+
+.mainheader{
+    font-family: Verdana, Geneva, sans-serif;;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: -5px;
+    color: rgba(55, 67, 96, 0.59);
+    font-weight: normal;
+    text-decoration: none;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.mainheader .sub{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 25px;
+    letter-spacing: 0;
+    word-spacing: 2.4px;
+}
